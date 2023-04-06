@@ -1,10 +1,10 @@
-.. huffyy-notes documentation master file, created by
-   sphinx-quickstart on Thu Apr  6 12:43:26 2023.
+.. notes documentation master file, created by
+   sphinx-quickstart on Thu Apr  6 13:01:26 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to huffyy-notes's documentation!
-========================================
+Welcome to notes's documentation!
+=================================
 
 .. toctree::
    :maxdepth: 2
