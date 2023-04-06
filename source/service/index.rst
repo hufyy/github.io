@@ -1,23 +1,26 @@
-.. _ssh:
+.. _service:
 
 =================================
-ssh服务
+Service 
 =================================
+
+
+我将在部署各种应用服务器涉及到上述技术时，进行不断的实践和积累，以逐步形成数据中心基础服务的指南。
 
 .. toctree::
    :maxdepth: 1
 
-   ssh_key.rst
-   ssh_tunneling.rst
-   ssh_tunneling_remote_port_forwarding.rst
-   ssh_tunneling_dynamic_port_forwarding.rst
-   entropy_random.rst
-   speed_up_ssh.rst
-   ssh_multiplexing.rst
-   ssh_proxycommand.rst
-   ssh_proxyjump.rst
-   openssh_legacy_options.rst
-   
+   ntp/index
+   dns/index
+   tls/index
+   ssh/index
+   mosh/index
+   syslog/index
+   samba/index
+   nfs/index
+   asciinema/index
+   guacamole/index
+
 .. only::  subproject and html
 
    Indices

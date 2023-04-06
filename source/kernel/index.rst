@@ -1,14 +1,18 @@
-.. _ssh:
+.. _service:
 
 =================================
-ssh服务
+Kernel
 =================================
+
+
+主要介绍我了解到的内核相关知识
 
 .. toctree::
    :maxdepth: 1
 
-   ssh_key.rst
+   install_kernel/index
    
+
 .. only::  subproject and html
 
    Indices

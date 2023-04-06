@@ -11,6 +11,7 @@ Welcome to notes's documentation!
    :caption: Contents:
    
    demo.rst
+   service/index
 
 
 Indices and tables
