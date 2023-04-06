@@ -9,7 +9,8 @@ Welcome to notes's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   demo.rst
 
 
 Indices and tables
