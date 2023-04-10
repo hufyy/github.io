@@ -12,6 +12,7 @@ Welcome to notes's documentation!
    
    demo.rst
    service/index
+   kernel/index
 
 
 Indices and tables
